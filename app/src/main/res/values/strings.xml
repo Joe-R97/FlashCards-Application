@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">FlashCards</string>
+    <string name="tbutton">True</string>
+    <string name="fbutton">False</string>
+    <string name="correct">Correct!</string>
+    <string name="incorrect">Incorrect!</string>
+    <string name="nbutton">Next</string>
+    <string name="q1">An application developed using higher level programming languages, such as Java for Android, is known as a native app.</string>
+    <string name="q2">The name of the official IDE for android app development is called Google Studio.</string>
+    <string name="q3">The official language for android development is Java.</string>
+    <string name="q4">An object is an instance of a class.</string>
+    <string name="q5">In Java the difference between constructor declarations and method declarations is that method declarations use the name of the class and have no return type.</string>
+    <string name="q6">double[] values = new double[10]; - this section of code can be used to construct an array in Java</string>
+    <string name="q7">HTML is the mark-up language used to design UI layouts in Android Studio</string>
+    <string name="q8">XML may not have a closing tag.</string>
+    <string name="q9">onPause() is the state of the current activity in the activity lifecycle when another activity comes into the foreground.</string>
+    <string name="q10">onNoClick() is an event listener used in Java.</string>
+    <string name="q11">view sets are the name of the extension of the view class which is used to contain multiple child views.</string>
+    <string name="q12">ListFragment is the fragment type used to provide several methods for managing a list view.</string>
+    <string name="q13">SharedPreferences is a small collection of key-value set for data persistence.</string>
+    <string name="q14">External storage is always available.</string>
+    <string name="q15">JUnit 4 is a type of testing framework is used within android.</string>
+    <string name="q16">Instrumented tests are tests that run on a hardware device or emulator.</string>
+    <string name="q17">Google Play services be installed within Android Studio in the SDP Manager.</string>
+    <string name="q18">You need an API key to use Google Maps within an Android application.</string>
+    <string name="q19">Dont use the camelCase format is NOT one of the ‘DON’TS’ in the Google Java style.</string>
+    <string name="q20">/* comment */ is the correct syntax for a block comment.</string>
+</resources>
